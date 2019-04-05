@@ -21,7 +21,7 @@ We would appreciate if you help to keep this page up-to-date and add feedback.
 | Browser                   | Release        | State      | Comments                 |
 | :------------------------ |:---------------|:-----------|:-------------------------|
 | Internet Explorer ([IE])  | 11             | Not supported | Does not support promises. |
-| Microsoft [Edge]          | deli. Win 10   | works | Streaming updates not working. |
+| Microsoft [Edge]          | deli. Win 10   | fails      | loads empty page with https         |
 | [Chrome]                  | 61.0.3163.100  | works      |                          |
 | [Firefox]                 | 62.0.3         | works      |                          |
 | [Iridium]                 | 48.2           | works      |                          |
